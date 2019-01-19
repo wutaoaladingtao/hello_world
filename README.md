@@ -1,2 +1,2 @@
 # hello_world
-just another respository
+My first GitHub，come on!
